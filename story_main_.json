@@ -14128,5 +14128,41 @@
           "story_master_hard_id_": -1,
           "story_master_scream_id_": -1,
           "story_master_despair_id_": -1
+        },
+        {
+          "id_": 786,
+          "story_part_id_": 17,
+          "story_chapter_id_": 5,
+          "story_episode_id_": 1,
+          "story_episode_name_id_": 1170501,
+          "story_episode_detail_id_": -1,
+          "creative_image_id_": 117,
+          "begin_date_": "2025/6/18  15:00:00",
+          "hard_begin_date_": "2030/1/1  0:00:00",
+          "scream_begin_date_": "2030/1/1  0:00:00",
+          "despair_begin_date_": "2030/1/1  0:00:00",
+          "end_date_": "2030/1/1  0:00:00",
+          "story_master_normal_id_": 10170501,
+          "story_master_hard_id_": -1,
+          "story_master_scream_id_": -1,
+          "story_master_despair_id_": -1
+        },
+        {
+          "id_": 787,
+          "story_part_id_": 17,
+          "story_chapter_id_": 5,
+          "story_episode_id_": 2,
+          "story_episode_name_id_": 1170501,
+          "story_episode_detail_id_": -1,
+          "creative_image_id_": 117,
+          "begin_date_": "2025/6/18  15:00:00",
+          "hard_begin_date_": "2030/1/1  0:00:00",
+          "scream_begin_date_": "2030/1/1  0:00:00",
+          "despair_begin_date_": "2030/1/1  0:00:00",
+          "end_date_": "2030/1/1  0:00:00",
+          "story_master_normal_id_": 10170502,
+          "story_master_hard_id_": -1,
+          "story_master_scream_id_": -1,
+          "story_master_despair_id_": -1
         }
       ]
